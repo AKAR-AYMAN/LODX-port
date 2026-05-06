@@ -8,7 +8,7 @@ import { useState } from "react"
 // CONFIGURATION: Update your contact info here!
 // ============================================
 const contactInfo = {
-  email: "akarayman123@gmail.com",
+  email: "lodx.editing@gmail.com",
   whatsapp: "+212 766888723'm interested in working with VORTEX.", // Default message
 }
 // ============================================

@@ -10,7 +10,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'VORTEX | Creative Studio',
+  title: 'LODX | Creative Studio',
   description: 'Gaming, Vlogs, Creative Content & Reels - We bring your vision to life',
 }
 

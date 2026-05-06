@@ -180,56 +180,36 @@ export function TeamSection() {
             className="flex flex-col justify-center"
           >
             <h3 className="mb-6 text-2xl font-bold text-foreground md:text-3xl">
-              We turn ideas into <span className="text-gold">viral content</span>
+             We make content <span className="text-gold">people don’t skip</span>
             </h3>
             <div className="space-y-5 text-muted-foreground">
               <p className="text-lg leading-relaxed">
-                <span className="font-semibold text-gold">Three Years of Precision</span>
+              We work with creators who actually care about what they post. Over
+               the past three years, we’ve been editing, testing, and improving every day. 
+              Not just making things look good, but understanding 
+              what makes people <span className="font-semibold text-gold"> stop, watch,</span> and <span className="font-semibold text-gold"> stay.</span> 
                 
               </p>
 
               <p className="text-lg leading-relaxed">
-                 Growth in the digital landscape is
-                 defined by the relentless pursuit of the perfect frame. For over three years,
-                  our team has operated at the intersection of<span className="font-semibold text-gold"> discipline
-                  </span>  and <span className="font-semibold text-gold"> imagination, 
-                  </span> 
-                   evolving from a passion for editing into a sophisticated production powerhouse. We don’t just process footage;
-                    we spend thousands of hours refining a signature style that balances technical mastery with emotional
-                     resonance, ensuring every second serves a clear purpose.
+              We focus on short-form content and YouTube videos. The goal is simple: catch attention fast and keep it.
+
+              Our work has reached over <span className="font-semibold text-gold"> 100 million views</span> , but what matters more is what 
+              we’ve learned from it. We know what works, what doesn’t, and how to build videos that feel natural and engaging.
+
+              We use tools like After Effects, Premiere Pro, and Blender—but tools aren’t the point. What matters is how everything comes
+               together: the timing, the flow, the feeling.
+
                 
               </p>
 
 
               <p className="text-lg leading-relaxed">
-                <span className="font-semibold text-gold">The 100 Million View Standard 
-                  </span>
-              </p>
-              <p className="text-lg leading-relaxed">
-                
-                 Numbers speak, but impact lingers. Achieving more than<span className="font-semibold text-gold"> 100 million views
-                 </span>  across our portfolio is a testament
-                 to our deep understanding of audience psychology. We have mastered the art of capturing attention instantly
-                  and holding it until the final frame. This milestone is proof of our ability to move, entertain,
-                   and inspire global audiences—applying a "viral-ready" philosophy to every project we touch.
-              </p>
-
-
-              <p className="text-lg leading-relaxed">
-                <span className="font-semibold text-gold">Beyond the Toolset 
-                  </span>
+              We’re just a team that takes content seriously and <span className="font-semibold text-gold">enjoys doing it right.</span>
+              
                   
               </p>
-
-              <p className="text-lg leading-relaxed">
-                
-                  While we utilize industry-standard software for 3D design, motion, and compositing,
-                   we believe a tool is only as sharp as the mind wielding it. Our expertise lies in visual problem-solving.
-                    We treat every project as a collaborative ecosystem, taking your initial vision and breathing life 
-                    into it through advanced spatial depth and rhythm.
-                     We don't just meet expectations; <span className="font-semibold text-gold">we redefine what is possible for your content.
-                     </span>
-              </p>
+              
               
             </div>
 
